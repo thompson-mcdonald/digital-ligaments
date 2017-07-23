@@ -2,20 +2,32 @@
 
 body {
   margin: 0;
+  background: #111;
   font-family: Libre Franklin, sans-serif;
 }
 
 p {
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: .2em;
+  letter-spacing: .1em;
   text-align: center;
 }
 
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.ttr-u {
+  text-transform: uppercase;
+}
+
 .poemContainer {
-  border: 1px solid black;
+  border: 1px solid white;
   width: 80%;
   max-width: 640px;
   margin: 4em auto;
   padding: 4em 0;
+  color: white;
 }
