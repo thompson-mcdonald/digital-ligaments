@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Below you will find some information on Rea-!
 
-#Nah Nah Nah None Of that
+# Nah Nah Nah None Of that
 
 Digital Ligaments. Generative Poetry or something.
 
