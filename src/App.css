@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,700');
+
+body {
+  margin: 0;
+  font-family: Libre Franklin, sans-serif;
+}
+
+p {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  text-align: center;
+}
+
+.poemContainer {
+  border: 1px solid black;
+  width: 80%;
+  max-width: 640px;
+  margin: 4em auto;
+  padding: 4em 0;
+}
